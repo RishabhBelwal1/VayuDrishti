@@ -1,0 +1,6 @@
+{
+  "name": "SIH26080 — Regime-Aware AI Post-Processing of Monsoon Rainfall Forecasts",
+  "description": "Operational meteorological intelligence dashboard for regime-aware AI post-processing of Indian monsoon NWP forecasts with high-resolution bias correction and synoptic regime classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
